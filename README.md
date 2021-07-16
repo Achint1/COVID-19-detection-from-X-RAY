@@ -1,5 +1,4 @@
 # covid_detection_from_xray
-This repository is a part of youtube session Web-ML portal conducted by DSC NIT Surat.
 This repository contains my base work for covid detection through x-ray.
 
 The task is to detect whether pneunomonia or covid-19 is present from x-ray images or patient is completely normal.
